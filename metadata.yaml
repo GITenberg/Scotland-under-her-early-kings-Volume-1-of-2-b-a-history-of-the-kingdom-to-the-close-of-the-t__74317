@@ -1,0 +1,34 @@
+_repo: Scotland-under-her-early-kings-Volume-1-of-2-b-a-history-of-the-kingdom-to-the-close-of-the-t__74317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robertson, Eben William
+    birthdate: 1815
+    deathdate: 1874
+    gutenberg_agent_id: '57441'
+    url: http://www.gutenberg.org/2009/agents/57441
+    wikipedia: https://en.wikipedia.org/wiki/Eben_William_Robertson
+description: ''
+gutenberg_issued: '2024-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74317'
+language: en
+pgterms:marc904: https://archive.org/details/scotlandunderh01robe https://archive.org/details/scotlandunderhe02robe
+pgterms:marc905: 20220616043742robertson
+pgterms:marc906: '1862'
+pgterms:marc907: GB
+production_note: MWS, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aEdinburgh :$bEdmonston and Douglas, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- To 1603'
+- !lcc 'DA'
+- GITenberg
+title: 'Scotland under her early kings, Volume 1 (of 2) : $b a history of the kingdom
+  to the close of the thirteenth century'
+url: http://www.gutenberg.org/ebooks/74317
