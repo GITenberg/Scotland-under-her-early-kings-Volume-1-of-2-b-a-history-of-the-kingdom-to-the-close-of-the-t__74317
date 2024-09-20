@@ -1,5 +1,8 @@
 _repo: Scotland-under-her-early-kings-Volume-1-of-2-b-a-history-of-the-kingdom-to-the-close-of-the-t__74317
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74317-h/images/cover.jpg
 creator:
   author:
     agent_name: Robertson, Eben William
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57441
     wikipedia: https://en.wikipedia.org/wiki/Eben_William_Robertson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74317#Scotland-under-her-early-kings-Volume-1-of-2-b-a-history-of-the-kingdom-to-the-close-of-the-t_
 gutenberg_issued: '2024-08-27'
 gutenberg_type: Text
 identifiers:
